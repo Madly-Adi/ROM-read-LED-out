@@ -17,6 +17,4 @@ clk -is clock cikle of rom
 
 line-is data output
 
-"# ROM-read-LED-out" 
-# ROM-read-LED-out
-# ROM-read-LED-out
+
